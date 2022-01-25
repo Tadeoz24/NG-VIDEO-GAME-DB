@@ -58,9 +58,10 @@ $ ng serve
 
 Using <a name="built_using"></a>
 
-_ [RAWG Video Games Database](https://rapidapi.com/accujazz/api/rawg-video-games-database/details) - Database _
-_ [Express](https://expressjs.com/) - Server Framework -_
+[RAWG Video Games Database](https://rapidapi.com/accujazz/api/rawg-video-games-database/details) - Database
+[Express](https://expressjs.com/) - Server Framework -\_
 [Angular](https://angular.io/) - Web Framework -
-[NodeJs](https://nodejs.org/en/) - Server Environment ✍️ Tadeoz Ghvaladze <a name="authors"></a>
+[NodeJs](https://nodejs.org/en/) - Server Environment
+✍️ Tadeoz Ghvaladze <a name="authors"></a>
 
 [contributors](https://github.com/Tadeoz24)
