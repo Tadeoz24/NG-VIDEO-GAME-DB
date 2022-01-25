@@ -32,7 +32,7 @@
 
 - [Deployment](#deployment) - [Usage](#usage) - [Built Using](#built_using) -
   [Authors](#authors) -
-  [Acknowledgments](#acknowledgement) ## 🧐 About <a name="about"></a>
+  [Acknowledgments](#acknowledgement) 🧐 <a name="about"></a>
 
 🏁 This is my first README file configuration. Main purpose is to improve skills with
 Angular! <a name="getting_started"></a>
