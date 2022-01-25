@@ -53,25 +53,16 @@ coding style tests Explain what these tests test and why ``` Give an example
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system. ## 🚀 Deployment
+$ git clone https://github.com/Tadeoz24/NG-VIDEO-GAME-DB.git
+$ ng serve
+🚀 Run and Built ⛏️
 <a name="deployment"></a>
 
-Add additional notes about how to deploy this on a live system. ## ⛏️ Built
 Using <a name="built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database -
+- [RAWG Video Games Database](https://rapidapi.com/accujazz/api/rawg-video-games-database/details) - Database -
   [Express](https://expressjs.com/) - Server Framework -
-  [VueJs](https://vuejs.org/) - Web Framework - [NodeJs](https://nodejs.org/en/) -
-  Server Environment ## ✍️ Authors <a name="authors"></a>
+  [Angular](https://angular.io/) - Web Framework -
+  [NodeJs](https://nodejs.org/en/) - Server Environment ## ✍️ Tadeoz Ghvaladze <a name="authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work See also the
-  list of
-  [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors)
-  who participated in this project. ## 🎉 Acknowledgements
-  <a name="acknowledgement"></a>
-
-- Hat tip to anyone whose code was used - Inspiration - References ```
-
-```
-
-```
+  [contributors](https://github.com/Tadeoz24)
