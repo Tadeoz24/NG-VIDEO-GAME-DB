@@ -24,21 +24,27 @@
 🧐
 
 🏁 This is my first README file configuration. Main purpose is to improve skills with
-Angular! <a name="getting_started"></a>
+Angular!
 
 These instructions will get you a copy of the project up and running on your
 local machine
 
-<h1>🎈 Usage </h1><a name="usage">
+<!-- <h1>🎈 Usage </h1><a name="usage">
 
   <ul>
       <li>$ git clone https://github.com/Tadeoz24/NG-VIDEO-GAME-DB.git</li>
       <li>$ npm install</li>
       <li>$ ng serve</li>
       <li> 🚀 Run and Built ⛏️ </li>
-  </ul>
+  </ul> -->
 
 </a>
+<h1> </h1>
+<h3> </h3>
+
+<h1>Development server</h1>
+<h3>Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files. </h3>
+
 <h1>Using Materials</h1>
 <ul>
   <li>[RAWG Video Games Database](https://rapidapi.com/accujazz/api/rawg-video-games-database/details) - Database</li>
@@ -47,5 +53,5 @@ local machine
   <li>[NodeJs](https://nodejs.org/en/) - Server Environment</li>
   
 </br>
-  <h3>[contributors](https://github.com/Tadeoz24)</h3>
+  <h3>https://github.com/Tadeoz24</h3>
 </ul>
