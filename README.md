@@ -3,7 +3,7 @@
     <img
       width="200px"
       height="200px"
-      src="https://i.imgur.com/6wj0hh6.jpg"
+      src="./src/assets/images/Readme/P-Screenshot.png"
       alt="Project logo"
   /></a>
 </p>
@@ -31,9 +31,10 @@
 </p>
 
 ## 📝 Table of Contents - [About](#about) - [Getting Started](#getting_started)
+
 - [Deployment](#deployment) - [Usage](#usage) - [Built Using](#built_using) -
-[TODO](../TODO.md) - [Contributing](../CONTRIBUTING.md) - [Authors](#authors) -
-[Acknowledgments](#acknowledgement) ## 🧐 About <a name="about"></a>
+  [TODO](../TODO.md) - [Contributing](../CONTRIBUTING.md) - [Authors](#authors) -
+  [Acknowledgments](#acknowledgement) ## 🧐 About <a name="about"></a>
 
 Write about 1-2 paragraphs describing the purpose of your project. ## 🏁 This is
 my first README file configuration. Main purpose is to improve skills with
@@ -52,7 +53,8 @@ the tests <a name="tests"></a>
 Explain how to run the automated tests for this system. ### Break down into end
 to end tests Explain what these tests test and why `Give an example` ### And
 coding style tests Explain what these tests test and why ``` Give an example
-```## 🎈 Usage <a name="usage"></a>
+
+````## 🎈 Usage <a name="usage"></a>
 
 Add notes about how to use the system. ## 🚀 Deployment
 <a name="deployment"></a>
@@ -72,3 +74,4 @@ who participated in this project. ## 🎉 Acknowledgements
 <a name="acknowledgement"></a>
 
 - Hat tip to anyone whose code was used - Inspiration - References ```
+````
