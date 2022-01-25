@@ -58,7 +58,7 @@ local machine
 <h3>Run ng e2e to execute the end-to-end tests via <a href="https://karma-runner.github.io/latest/index.html">Protractor</h3>
 
 <h1>Further help</h1>
-<h3>To get more help on the Angular CLI use ng help or go check out the <a href="https://angular.io/cli"> Angular CLI Overview and Command Reference </a>page.</h3>
+<h3>To get more help on the Angular CLI use ng help or go check out the <a href="https://angular.io/cli"> Angular CLI Overview and Command Reference page.</h3>
 
 <h1>Using Materials</h1>
 <ul>
