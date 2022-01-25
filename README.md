@@ -29,37 +29,23 @@ Angular!
 These instructions will get you a copy of the project up and running on your
 local machine
 
-<!-- <h1>🎈 Usage </h1><a name="usage">
-
-  <ul>
-      <li>$ git clone https://github.com/Tadeoz24/NG-VIDEO-GAME-DB.git</li>
-      <li>$ npm install</li>
-      <li>$ ng serve</li>
-      <li> 🚀 Run and Built ⛏️ </li>
-  </ul> -->
-
-</a>
-<h1> </h1>
-<h3> </h3>
-
 <h1>Development server</h1>
-<h3>Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files. </h3>
+<h5>Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files. </h5>
 
 <h1>Code scaffolding</h1>
-<h3>Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.</h3>
+<h5>Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.</h5>
 
 <h1>Build</h1>
-<h3>Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.</h3>
+<h5>Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.</h5>
 
 <h1>Running unit tests</h1>
-<h3>Run ng test to execute the unit tests via </h3><h3> <a href="https://karma-runner.github.io/latest/index.html">Karma</a></h3>
+<h5>Run ng test to execute the unit tests via </h5><h3> <a href="https://karma-runner.github.io/latest/index.html">Karma</a></h3>
 
 <h1>Running end-to-end tests</h1>
-<h3>Run ng e2e to execute the end-to-end tests via</h3><h3> <a href="http://www.protractortest.org/#/">Protractor</a></h3>
+<h5>Run ng e2e to execute the end-to-end tests via</h5><h3> <a href="http://www.protractortest.org/#/">Protractor</a></h3>
 
 <h1>Further help</h1>
-<h3>To get more help on the Angular CLI use ng help or go check out the  Angular CLI Overview and Command Reference page.</h3>
-<h3>To get more help on the Angular CLI use ng help or go check out the </h3><h3> <a href="https://angular.io/cli">Angular CLI Overview and Command Reference page</a></h3>
+<h5>To get more help on the Angular CLI use ng help or go check out the </h5><h3> <a href="https://angular.io/cli">Angular CLI Overview and Command Reference page</a></h3>
 
 <h1>Using Materials</h1>
 <ul>
