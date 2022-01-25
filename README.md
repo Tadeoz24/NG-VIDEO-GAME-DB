@@ -52,7 +52,7 @@ local machine
 <h3>Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.</h3>
 
 <h1>Running unit tests</h1>
-<h3>Run ng test to execute the unit tests via  <a href="https://karma-runner.github.io/latest/index.html">.</h3>
+<h3>Run ng test to execute the unit tests via  <a href="https://karma-runner.github.io/latest/index.html">Karma</h3>
 
 <h1>Running end-to-end tests</h1>
 <h3>Run ng e2e to execute the end-to-end tests via Protractor.</h3>
