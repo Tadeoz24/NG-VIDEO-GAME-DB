@@ -33,17 +33,19 @@ local machine
 
   <ul>
       <li>$ git clone https://github.com/Tadeoz24/NG-VIDEO-GAME-DB.git</li>
+      <li>$ npm install</li>
       <li>$ ng serve</li>
       <li> 🚀 Run and Built ⛏️ </li>
   </ul>
 
 </a>
-
+<h1>Using Materials</h1>
 <ul>
   <li>[RAWG Video Games Database](https://rapidapi.com/accujazz/api/rawg-video-games-database/details) - Database</li>
   <li>[Express](https://expressjs.com/) - Server Framework -</li>
   <li>[Angular](https://angular.io/) - Web Framework -</li>
   <li>[NodeJs](https://nodejs.org/en/) - Server Environment</li>
+  
 </br>
   <h3>[contributors](https://github.com/Tadeoz24)</h3>
 </ul>
