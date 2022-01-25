@@ -10,16 +10,14 @@
 
 <h3 align="center">ng-video-game-db</h3>
 
-<div align="center">
+<!-- <div align="center">
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub
   Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
   [![GitHub Pull
   Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-</div>
-
----
+</div> -->
 
 <p align="center">
   Project Which use Public API to create this interesting game database website.
@@ -36,8 +34,7 @@
   [TODO](../TODO.md) - [Contributing](../CONTRIBUTING.md) - [Authors](#authors) -
   [Acknowledgments](#acknowledgement) ## 🧐 About <a name="about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project. ## 🏁 This is
-my first README file configuration. Main purpose is to improve skills with
+🏁 This is my first README file configuration. Main purpose is to improve skills with
 Angular! <a name="getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your
