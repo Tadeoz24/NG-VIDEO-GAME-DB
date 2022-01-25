@@ -49,11 +49,14 @@ Explain how to run the automated tests for this system. ### Break down into end
 to end tests Explain what these tests test and why `Give an example` ### And
 coding style tests Explain what these tests test and why ``` Give an example
 
-## 🎈 Usage <a name="usage">
+🎈 Usage <a name="usage">
 
-$ git clone https://github.com/Tadeoz24/NG-VIDEO-GAME-DB.git
-$ ng serve
-🚀 Run and Built ⛏️
+  <ul>
+      <li>$ git clone https://github.com/Tadeoz24/NG-VIDEO-GAME-DB.git</li>
+      <li>$ ng serve</li>
+      <li> 🚀 Run and Built ⛏️ </li>
+  </ul>
+
 </a>
 
 <ul>
