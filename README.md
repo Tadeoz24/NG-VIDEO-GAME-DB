@@ -29,7 +29,7 @@ Angular! <a name="getting_started"></a>
 These instructions will get you a copy of the project up and running on your
 local machine
 
-🎈 Usage <a name="usage">
+<h1>🎈 Usage </h1><a name="usage">
 
   <ul>
       <li>$ git clone https://github.com/Tadeoz24/NG-VIDEO-GAME-DB.git</li>
