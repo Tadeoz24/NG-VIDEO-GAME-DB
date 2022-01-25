@@ -31,7 +31,7 @@
 ## 📝 Table of Contents - [About](#about) - [Getting Started](#getting_started)
 
 - [Deployment](#deployment) - [Usage](#usage) - [Built Using](#built_using) -
-  [TODO](../TODO.md) - [Contributing](../CONTRIBUTING.md) - [Authors](#authors) -
+  [Authors](#authors) -
   [Acknowledgments](#acknowledgement) ## 🧐 About <a name="about"></a>
 
 🏁 This is my first README file configuration. Main purpose is to improve skills with
