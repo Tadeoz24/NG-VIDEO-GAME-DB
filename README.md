@@ -58,6 +58,8 @@ $ ng serve
 
 Using <a name="built_using"></a>
 
+<ul>
+
 [RAWG Video Games Database](https://rapidapi.com/accujazz/api/rawg-video-games-database/details) - Database
 [Express](https://expressjs.com/) - Server Framework -\_
 [Angular](https://angular.io/) - Web Framework -
@@ -65,3 +67,8 @@ Using <a name="built_using"></a>
 ✍️ Tadeoz Ghvaladze <a name="authors"></a>
 
 [contributors](https://github.com/Tadeoz24)
+
+<ul>
+<li>[RAWG Video Games Database](https://rapidapi.com/accujazz/api/rawg-video-games-database/details) - Database</li>
+<li>[Express](https://expressjs.com/) - Server Framework -\_</li>
+</ul>
