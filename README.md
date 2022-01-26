@@ -65,8 +65,10 @@ local machine
     <li>[RAWG Video Games Database](https://rapidapi.com/accujazz/api/rawg-video-games-database/details) - Database</li>
     <li>[Express](https://expressjs.com/) - Server Framework -</li>
     <li>[Angular](https://angular.io/) - Web Framework -</li>
+    <li>[Angular Material ](https://material.angular.io/) - Styles -</li>
+    <li>[Angular Gauge ](https://www.npmjs.com/package/angular-gauge) - Display Rating -</li>
     <li>[NodeJs](https://nodejs.org/en/) - Server Environment</li>
-    
+    <li>[Public API] (https://rapidapi.com/accujazz/api/rawg-video-games-database/details) - API </li>
   </br>
   </ul>
     </br>

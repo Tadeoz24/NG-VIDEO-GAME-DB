@@ -10,7 +10,10 @@ import { Subscription } from 'rxjs';
   styleUrls: ['./home.component.scss'],
 })
 export class HomeComponent implements OnInit, OnDestroy {
+  //This sort variable is used to attach mat-select panelClass="sort-select"
+  //ეს დალაგების ცვლადი გამოიყენება mat-select panelClass="sort-select"-ის დასამაგრებლად
   public sort!: string;
+
   public games!: Array<Game>;
   private routeSub!: Subscription;
   private gameSub!: Subscription;
@@ -22,6 +25,8 @@ export class HomeComponent implements OnInit, OnDestroy {
   ) {}
 
   ngOnInit(): void {
+    //Search text attached to the URL
+    //ძებნის ტექსტი ემაგრება URL-ზე
     this.routeSub = this.activatedroute.params.subscribe((params: Params) => {
       if (params['game-search']) {
         this.searchGames('metacrit', params['game-search']);
@@ -31,6 +36,8 @@ export class HomeComponent implements OnInit, OnDestroy {
     });
   }
 
+  //Method call API and fetch this data.
+  //მეთოდი იძახებს API-ს და ფეჩავს მონაცემს.
   searchGames(sort: string, search?: string): void {
     this.gameSub = this.httpService
       .getGameList(sort, search)
@@ -40,10 +47,13 @@ export class HomeComponent implements OnInit, OnDestroy {
       });
   }
 
+  //Navigate to details page and send in ID as a parameter.
+  //დეტალების გვერდზე გადასვლისას იღებს აიდის როგორც პარამეტრი.
   openGameDetails(id: string): void {
     this.router.navigate(['details', id]);
   }
 
+  //Life Cycle hook
   ngOnDestroy(): void {
     if (this.gameSub) {
       this.gameSub.unsubscribe();

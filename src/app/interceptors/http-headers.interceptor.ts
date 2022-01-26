@@ -10,6 +10,18 @@ import { Observable, observable } from 'rxjs';
 @Injectable()
 export class HttpHeadersInterceptor implements HttpInterceptor {
   constructor() {}
+  /*
+
+    This method with two headers, First one is RapidAPI Key and second one is host.
+
+  */
+
+  /*
+
+    ეს მეთოდი ორი სათაურით, პირველი არის RapidAPI Key და მეორე არის Host.
+
+  */
+
   intercept(
     req: HttpRequest<any>,
     next: HttpHandler

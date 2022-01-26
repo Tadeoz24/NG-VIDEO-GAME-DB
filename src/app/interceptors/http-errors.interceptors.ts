@@ -14,6 +14,17 @@ import { Injectable } from '@angular/core';
 @Injectable()
 export class HttpErrorsInterceptor implements HttpInterceptor {
   constructor() {}
+  /*
+
+    This method require two argument and returning observable of HTTP event.
+
+  */
+
+  /*
+
+    ეს მეთოდი იღებს ორ არგუმენტს და აბრუნებს observable-ს HTTP event.
+
+  */
   intercept(
     req: HttpRequest<any>,
     next: HttpHandler

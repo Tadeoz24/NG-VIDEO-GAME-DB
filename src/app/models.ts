@@ -1,4 +1,10 @@
+//Interface for types, Api response ang game.
+//Interface  types, Api response და game-სთვის.
+
+//interface which will be using to define data.
+//interface, რომელიც გამოყენებული იქნება მონაცემების დასადგენად.
 export interface Game {
+  id: string;
   background_image: string;
   name: string;
   released: string;
@@ -12,7 +18,6 @@ export interface Game {
   ratings: Array<Rating>;
   screenshots: Array<Screenshots>;
   trailers: Array<Trailer>;
-  id: string;
 }
 
 export interface APIResponse<T> {

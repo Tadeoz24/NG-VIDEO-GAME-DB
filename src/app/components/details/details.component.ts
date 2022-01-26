@@ -40,6 +40,8 @@ export class DetailsComponent implements OnInit, OnDestroy {
       });
   }
 
+  //Color change depending on the value which get.
+  //ფერის შეცვლა დამოკიდებულია მიღებული მნიშვნელობის მიხედვით.
   getColor(value: number): string {
     if (value > 75) {
       return '#5ee432';
@@ -52,6 +54,7 @@ export class DetailsComponent implements OnInit, OnDestroy {
     }
   }
 
+  //Life Cycle Hook
   ngOnDestroy(): void {
     if (this.gameSub) {
       this.gameSub.unsubscribe();
