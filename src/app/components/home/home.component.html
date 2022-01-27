@@ -1,0 +1,52 @@
+<!---All created variables are described in home.component.ts file.
+Used Angular Material and Data binding-->
+<!---ყველა შექმნილი ცვლადი აღწერილია home.component.ts ფაილში.
+გამოყენებულია Angular Material და Data binding-->
+
+<div class="filters">
+  <mat-form-field>
+    <mat-label>Sort</mat-label>
+    <mat-select
+      panelClass="sort-select"
+      [(ngModel)]="sort"
+      (selectionChange)="searchGames(sort)"
+    >
+      <mat-option value="name">Name</mat-option>
+      <mat-option value="-released">Released</mat-option>
+      <mat-option value="-added">Added</mat-option>
+      <mat-option value="-created">Created</mat-option>
+      <mat-option value="-updated">Updated</mat-option>
+      <mat-option value="-rating">rating</mat-option>
+      <mat-option value="metacritic">Metacritic</mat-option>
+    </mat-select>
+  </mat-form-field>
+</div>
+
+<div class="games">
+  <ng-container *ngFor="let game of games">
+    <div class="game" (click)="openGameDetails(game.id)">
+      <div class="game-thumb-container">
+        <img
+          *ngIf="game.background_image"
+          src="{{ game.background_image }}"
+          alt="thumbnail"
+          class="game-thumbnail"
+        />
+        <p *ngIf="!game.background_image">No image</p>
+      </div>
+      <div class="game-description">
+        <p class="game-name">{{ game.name }}</p>
+        <div class="game-platforms">
+          <img
+            *ngFor="let gamePlatform of game.parent_platforms"
+            class="game-platform"
+            src="../../../assets/images/platforms/{{
+              gamePlatform.platform.slug
+            }}.svg"
+            alt="{{ gamePlatform.platform.slug }}"
+          />
+        </div>
+      </div>
+    </div>
+  </ng-container>
+</div>

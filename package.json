@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "deploy": "gh-pages -d dist"
+    "test": "ng test"
   },
   "private": true,
   "dependencies": {
@@ -24,8 +24,7 @@
     "gh-pages": "^3.2.3",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.11.4",
-    "homepage": "https://tadeoz24.github.io/NG-VIDEO-GAME-DB"
+    "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~13.1.4",
