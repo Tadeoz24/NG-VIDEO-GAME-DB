@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "deploy": "gh-pages -d NG-VIDEO-GAME-DB"
+    "deploy": "gh-pages -d dist"
   },
   "private": true,
   "dependencies": {
