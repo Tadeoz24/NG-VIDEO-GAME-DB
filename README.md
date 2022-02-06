@@ -1,11 +1,10 @@
 <p align="center">
-  <a href="" rel="noopener">
-    <img
-      width="200px"
-      height="200px"
-      src="./src/assets/images/Readme/P-Screenshot.png"
-      alt="Project logo"
-  /></a>
+<div align="center" id="top"> 
+  <img src="./src/assets/images/Readme/P-Screenshot.png" alt="Portfolio" />
+
+&#xa0;
+
+</div>
 </p>
 
 <h3 align="center"> 📽️ng-video-game-db📽️</h3>
