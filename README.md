@@ -45,10 +45,10 @@ local machine
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Tadeoz24/Personal-Portfolio
+$ git clone https://github.com/Tadeoz24/NG-VIDEO-GAME-DB
 
 # Access
-$ cd portfolio
+$ cd NG-VIDEO-GAME-DB
 
 # Install dependencies
 $ npm install
