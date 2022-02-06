@@ -31,7 +31,7 @@ export class HomeComponent implements OnInit, OnDestroy {
       if (params['game-search']) {
         this.searchGames('metacrit', params['game-search']);
       } else {
-        this.searchGames('metacriti');
+        this.searchGames('metacrit');
       }
     });
   }
