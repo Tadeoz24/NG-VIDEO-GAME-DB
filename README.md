@@ -43,7 +43,23 @@ local machine
 
 # 🐱 Build
 
-#### ✏️ Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
+## :checkered_flag: Starting
+
+```bash
+# Clone this project
+$ git clone https://github.com/Tadeoz24/Personal-Portfolio
+
+# Access
+$ cd portfolio
+
+# Install dependencies
+$ npm install
+
+# Run the project
+$ ng serve
+
+# The server will initialize in the <http://localhost:4200>
+```
 
 # 🦁 Running unit tests
 
