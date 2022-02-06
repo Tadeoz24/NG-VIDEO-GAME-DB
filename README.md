@@ -43,8 +43,6 @@ local machine
 
 # 🐱 Build
 
-## :checkered_flag: Starting
-
 ```bash
 # Clone this project
 $ git clone https://github.com/Tadeoz24/Personal-Portfolio
