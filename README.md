@@ -91,7 +91,8 @@ $ ng serve
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 Made with :heart: by <a href="https://github.com/Tadeoz24/" target="_blank">Tadeoz Gvaladze</a>
-<a href="https://github.com/Tadeoz24/NG-VIDEO-GAME-DB/tree/gh-pages" target="_blank">Open Site</a>
+
+## <a href="https://tadeoz24.github.io/NG-VIDEO-GAME-DB/?fbclid=IwAR1nQ_GQ73fSrScAovPY1SuuMtIPqQtZjOyqC5aevCqeK2vlMdtMkXI_QeE" target="_blank">Open Site</a>
 
 &#xa0;
 
