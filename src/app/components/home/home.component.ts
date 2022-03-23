@@ -22,7 +22,7 @@ export class HomeComponent implements OnInit, OnDestroy {
     private httpService: HttpService,
     private activatedroute: ActivatedRoute,
     private router: Router
-  ) {}
+  ) { }
 
   ngOnInit(): void {
     //Search text attached to the URL
@@ -43,7 +43,7 @@ export class HomeComponent implements OnInit, OnDestroy {
       .getGameList(sort, search)
       .subscribe((gameList: APIResponse<Game>) => {
         this.games = gameList.results;
-        console.log(gameList);
+        // console.log(gameList);
       });
   }
 
